@@ -8,9 +8,9 @@ export async function GET(request: NextRequest) {
     const offset = searchParams.get("offset") || "0"
     const limit = searchParams.get("limit") || "20"
 
-    const publicKey = process.env.MARVEL_PUBLIC_KEY
-    const privateKey = process.env.MARVEL_PRIVATE_KEY
-    const baseUrl = process.env.MARVEL_API_BASE
+    const publicKey = process.env.NEXT_PUBLIC_MARVEL_PUBLIC_KEY
+    const privateKey = process.env.NEXT_PUBLIC_MARVEL_PRIVATE_KEY
+    const baseUrl = process.env.NEXT_PUBLIC_MARVEL_API_BASE
 
     if (!publicKey || !privateKey || !baseUrl) {
       return NextResponse.json({ error: "Marvel API credentials not configured" }, { status: 500 })
