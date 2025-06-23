@@ -1,0 +1,84 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Wakanda",
+      "description": "Advanced African nation hidden in the heart of Africa, home of Black Panther and vibranium technology",
+      "coordinates": { "x": 520, "y": 320 },
+      "realCoordinates": { "lat": -1.0, "lng": 29.0 },
+      "characters": ["Black Panther", "Shuri", "Okoye", "M'Baku"],
+      "firstAppearance": "Fantastic Four #52 (1966)",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "New York City",
+      "description": "The Big Apple - home to many Marvel heroes including Spider-Man, Daredevil, and Avengers Tower",
+      "coordinates": { "x": 280, "y": 180 },
+      "realCoordinates": { "lat": 40.7128, "lng": -74.006 },
+      "characters": ["Spider-Man", "Daredevil", "Iron Fist", "Luke Cage", "Doctor Strange"],
+      "firstAppearance": "Marvel Comics #1 (1939)",
+      "image": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Asgard",
+      "description": "Realm of the Norse gods connected to Earth via the Rainbow Bridge, home of Thor and Odin",
+      "coordinates": { "x": 400, "y": 50 },
+      "realCoordinates": { "lat": 90.0, "lng": 0.0 },
+      "characters": ["Thor", "Odin", "Loki", "Heimdall", "Frigga"],
+      "firstAppearance": "Journey into Mystery #83 (1962)",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Atlantis",
+      "description": "Ancient underwater kingdom in the Atlantic Ocean, ruled by Namor the Sub-Mariner",
+      "coordinates": { "x": 320, "y": 280 },
+      "realCoordinates": { "lat": 25.0, "lng": -30.0 },
+      "characters": ["Namor", "Namorita", "Attuma"],
+      "firstAppearance": "Marvel Comics #1 (1939)",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "X-Mansion",
+      "description": "Xavier's School for Gifted Youngsters in Westchester County, New York - training ground for mutants",
+      "coordinates": { "x": 285, "y": 175 },
+      "realCoordinates": { "lat": 41.2033, "lng": -73.837 },
+      "characters": ["Professor X", "Wolverine", "Storm", "Cyclops", "Jean Grey"],
+      "firstAppearance": "X-Men #1 (1963)",
+      "image": "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Latveria",
+      "description": "Small Eastern European nation ruled with an iron fist by the brilliant Doctor Doom",
+      "coordinates": { "x": 450, "y": 160 },
+      "realCoordinates": { "lat": 45.0, "lng": 20.0 },
+      "characters": ["Doctor Doom", "Valeria"],
+      "firstAppearance": "Fantastic Four Annual #2 (1964)",
+      "image": "https://images.unsplash.com/photo-1551632811-561732d1e306?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "Kamar-Taj",
+      "description": "Hidden sanctuary in the Himalayas where the Ancient One trains sorcerers in the mystic arts",
+      "coordinates": { "x": 580, "y": 200 },
+      "realCoordinates": { "lat": 28.0, "lng": 84.0 },
+      "characters": ["Doctor Strange", "Ancient One", "Wong", "Mordo"],
+      "firstAppearance": "Strange Tales #110 (1963)",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=300&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Baxter Building",
+      "description": "Manhattan headquarters of the Fantastic Four, located at 42nd Street and Madison Avenue",
+      "coordinates": { "x": 282, "y": 182 },
+      "realCoordinates": { "lat": 40.7505, "lng": -73.9934 },
+      "characters": ["Mr. Fantastic", "Invisible Woman", "Human Torch", "The Thing"],
+      "firstAppearance": "Fantastic Four #3 (1962)",
+      "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=400&h=300&fit=crop"
+    }
+  ]
+}

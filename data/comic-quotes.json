@@ -1,0 +1,74 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "I am Iron Man.",
+      "character": "Tony Stark",
+      "comic": "Tales of Suspense #39",
+      "year": 1963
+    },
+    {
+      "id": 2,
+      "text": "With great power comes great responsibility.",
+      "character": "Spider-Man",
+      "comic": "Amazing Fantasy #15",
+      "year": 1962
+    },
+    {
+      "id": 3,
+      "text": "Hulk smash!",
+      "character": "Hulk",
+      "comic": "The Incredible Hulk #3",
+      "year": 1962
+    },
+    {
+      "id": 4,
+      "text": "I can do this all day.",
+      "character": "Captain America",
+      "comic": "Captain America Comics #1",
+      "year": 1941
+    },
+    {
+      "id": 5,
+      "text": "I am Groot.",
+      "character": "Groot",
+      "comic": "Tales to Astonish #13",
+      "year": 1960
+    },
+    {
+      "id": 6,
+      "text": "For Asgard!",
+      "character": "Thor",
+      "comic": "Journey into Mystery #83",
+      "year": 1962
+    },
+    {
+      "id": 7,
+      "text": "Wakanda Forever!",
+      "character": "Black Panther",
+      "comic": "Fantastic Four #52",
+      "year": 1966
+    },
+    {
+      "id": 8,
+      "text": "By the hoary hosts of Hoggoth!",
+      "character": "Doctor Strange",
+      "comic": "Strange Tales #110",
+      "year": 1963
+    },
+    {
+      "id": 9,
+      "text": "Flame on!",
+      "character": "Human Torch",
+      "comic": "Fantastic Four #1",
+      "year": 1961
+    },
+    {
+      "id": 10,
+      "text": "It's clobberin' time!",
+      "character": "The Thing",
+      "comic": "Fantastic Four #1",
+      "year": 1961
+    }
+  ]
+}
